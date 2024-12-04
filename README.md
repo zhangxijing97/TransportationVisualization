@@ -2,7 +2,7 @@
 
 This project visualizes Dell's logistics and transportation data, sourced from the **Dell Transportation Database 2024 v2.xlsx**, to analyze city connections and optimize routes. The project highlights the geographical spread of Dell's distribution network and provides insights into its logistics operations.
 
-![City Connections Map](city_connections_map.png)
+![Image](city_connections_highlighted.png)
 
 ## Features
 - **Map Visualization**: Plots destination cities from Dell's logistics network on a map as green dots.
